@@ -1,6 +1,6 @@
 import { TranslationTable } from './feiertage';
 
-export var germanTranslations: TranslationTable = {
+export const germanTranslations: TranslationTable = {
   NEUJAHRSTAG: 'Neujahrstag',
   HEILIGEDREIKOENIGE: 'Heilige Drei Könige',
   KARFREITAG: 'Karfreitag',

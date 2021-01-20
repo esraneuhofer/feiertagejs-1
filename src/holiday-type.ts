@@ -21,7 +21,7 @@ export type HolidayType =
   | 'AUGSBURGER_FRIEDENSFEST'
   ;
 
-export var allHolidays: HolidayType[] = [
+export const allHolidays: HolidayType[] = [
   'NEUJAHRSTAG',
   'HEILIGEDREIKOENIGE',
   'KARFREITAG',
